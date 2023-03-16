@@ -3,7 +3,7 @@
 Beolow is the image of the Project
 ![redux_app](https://user-images.githubusercontent.com/26798743/225757836-cb072460-a99b-4110-b7a3-d85bee759377.PNG)
 
-In this mini CRUD Project I have used Redux for the state management purpose. Where you can add the care and cost of it then you can search the car based on the keyword.
+In this mini CRUD Project I have used Redux for the state management purpose. Where you can add the care and cost of it then you can search the car based on the keyword. Total cost of the cars will be changed according to the selection of the car.
 
 # Getting Started with Create React App
 
